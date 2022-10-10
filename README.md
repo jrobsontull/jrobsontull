@@ -8,7 +8,7 @@
 
 🌱 I'm currently working on a **React/Express** app for a non-profit. We are building an app to provide free cab rides to the AAPI community in NYC. This has involved building a frontend to manage requests for rides and RESTful APIs for manipulating requests in an admin dashboard.
 
-🔬 I'm also exploring some new **Python** projects to use supervised and unsupervised **machine learning** in a biological setting. At the moment we're looking at the chemical and evolutionary relationships between human proteins to identify new patterns!
+🔬 I'm also exploring some new **Python** projects to use supervised and unsupervised **machine learning** in biological and technical settings. At the moment we're looking at the patterns amongst protein datasets, as well as patterns in Twitter datasets!
 
 🧗 Outside of my PhD and programming, I like to **climb**, **draw portraits**, **read books** and learn **Korean**. 요즘 제가 제일 좋아하는 한국 음식은 마푸두부예요!
 
