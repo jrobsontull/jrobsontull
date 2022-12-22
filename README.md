@@ -4,11 +4,11 @@
 
 ### Grad student and hobby full stack developer.
 
-🎓 I am currently a PhD student at the University of Oxford, where I split my time between labs in the UK and US. In my spare time you'll find me playing around with **Python** projects and building **Node.js** apps. My favourite stack at the moment is **MERN** but I'm hoping to change that as I build new projects. Feel free to reach out to me on LinkedIn if you're interested in a chat.
+🎓 I am currently a PhD student at the University of Oxford, where I split my time between labs in the UK and US. In my spare time you'll find me playing around with **Python** projects and building **Node.js** apps. My favourite stack is historically **MERN** but I'm slowing making the **t3-app** transition. Feel free to reach out to me on LinkedIn if you're interested in a chat.
 
-🌱 I'm currently working on a **React/Express** app for a non-profit. We are building an app to provide free cab rides to the AAPI community in NYC. This has involved building a frontend to manage requests for rides and RESTful APIs for manipulating requests in an admin dashboard.
+🌱 I'm currently working on a **React/Express** app for a non-profit. We are building an app to provide free cab rides to the AAPI community in NYC. This has involved building a frontend to manage requests for rides and RESTful APIs for manipulating requests in a staff dashboard. I'm also working on a new **t3-app** with something to do with Stable Diffusion and Dreambooth 👀
 
-🔬 I'm also exploring some new **Python** projects to use supervised and unsupervised **machine learning** in biological and technical settings. At the moment we're looking at the patterns amongst protein datasets, as well as patterns in Twitter datasets!
+🔬 I'm also exploring some new **Python** projects to use supervised and unsupervised **machine learning** in biological and technical settings. At the moment we're looking at the patterns amongst single cell breast cancer data!
 
 🧗 Outside of my PhD and programming, I like to **climb**, **draw portraits**, **read books** and learn **Korean**. 요즘 제가 제일 좋아하는 한국 음식은 마푸두부예요!
 
