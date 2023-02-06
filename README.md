@@ -4,7 +4,7 @@
 
 ### Grad student and full-stack developer.
 
-🎓 I am currently a PhD student at the University of Oxford, where I split my time between labs in the UK and US. In my spare time you'll find me building **Typescript** apps and playing around with **Python** projects. My favourite stack is **t3-app** and I crave typesafety. Feel free to reach out to me on LinkedIn if you're interested in a chat.
+🎓 I am currently a PhD student at the University of Oxford, where I split my time between labs in the UK and USA. In my spare time you'll find me building **Typescript** apps and playing around with **Python** projects. My favourite stack is **t3-app** and I crave typesafety. Feel free to reach out to me on LinkedIn if you're interested in a chat.
 
 🌱 I'm currently as a full-stack developer at [**Cara**](https://cara.app/) where we're building a social network and professional art portfolio platform for the digital art community. Our userbase is growing rapidly and we're solving challenging problems all the time! Our stack is built around **Next.js** and we're routinely using cool features like **server-side rendering** and **incremental static generation**.
 
