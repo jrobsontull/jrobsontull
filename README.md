@@ -2,11 +2,11 @@
   Hi, I'm Jake 👋
  </h1>
 
-### Grad student and hobby full stack developer.
+### Grad student and full-stack developer.
 
-🎓 I am currently a PhD student at the University of Oxford, where I split my time between labs in the UK and US. In my spare time you'll find me playing around with **Python** projects and building **Node.js** apps. My favourite stack is historically **MERN** but I'm slowing making the **t3-app** transition. Feel free to reach out to me on LinkedIn if you're interested in a chat.
+🎓 I am currently a PhD student at the University of Oxford, where I split my time between labs in the UK and US. In my spare time you'll find me building **Typescript** apps and playing around with **Python** projects. My favourite stack is **t3-app** and I crave typesafety. Feel free to reach out to me on LinkedIn if you're interested in a chat.
 
-🌱 I'm currently working on a **React/Express** app for a non-profit. We are building an app to provide free cab rides to the AAPI community in NYC. This has involved building a frontend to manage requests for rides and RESTful APIs for manipulating requests in a staff dashboard. I'm also working on a new **t3-app** with something to do with machine learning so watch this space 👀
+🌱 I'm currently a full-stack developer at [**Cara**](https://cara.app/) where we're building a social network and professional art portfolio platform for the digital art community. Our userbase is growing rapidly and we're solving challenging problems all the time! Our stack is built around **Next.js** and we're routinely using cool features like **server-side rendering** and **incremental static generation**.
 
 🔬 I'm also exploring some new **Python** projects to use supervised and unsupervised **machine learning** in biological and technical settings. At the moment we're looking at the patterns amongst single cell breast cancer data!
 
@@ -17,12 +17,14 @@
 📫 I can be reached at the links below. Happy to go for a coffee anytime and talk code.
 
 ### My stack:
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a>
 <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a>
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a>
+<a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original-wordmark.svg" alt="next" width="40" height="40"/> </a>
 <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a>
 <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a>
 <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a>
 <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a>
+<a href="https://www.postgresql.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-plain-wordmark.svg" alt="postgresql" width="40" height="40"/> </a>
 <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a>
 <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
 <a href="https://webpack.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/d00d0969292a6569d45b06d3f350f463a0107b0d/icons/webpack/webpack-original-wordmark.svg" alt="webpack" width="40" height="40"/> </a>
