@@ -6,7 +6,7 @@
 
 🎓 I am currently a PhD student at the University of Oxford, where I split my time between labs in the UK and USA. In my spare time you'll find me building **Typescript** apps and playing around with **Python** projects. My favourite stack is **t3-app** and I'm a big advocate for things that make development easier. Feel free to reach out to me on LinkedIn if you're interested in a chat.
 
-🌱 I'm currently as a full-stack developer at [**Cara**](https://cara.app/) where we're building a social network and professional art portfolio platform for the digital art community. Our userbase is growing rapidly and we're solving challenging problems all the time! Our stack is built around **Next.js** and we're routinely using cool features like **server-side rendering** and **incremental static generation**.
+🌱 I'm currently a full-stack developer at [**Cara**](https://cara.app/) where we're building a social network and professional art portfolio platform for the digital art community. Our userbase is growing rapidly and we're solving challenging problems all the time! Our stack is built around **Next.js** and we're routinely using cool features like **server-side rendering** and **incremental static generation**.
 
 🔬 I'm also exploring some new **Python** projects to use supervised and unsupervised **machine learning** in biological and technical settings. At the moment we're looking at the patterns amongst single cell breast cancer data!
 
