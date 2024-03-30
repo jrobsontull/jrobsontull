@@ -2,7 +2,7 @@
   Hi, I'm Jake 👋
  </h1>
 
-### Grad student and full-stack developer.
+### Scientist and full-stack developer.
 
 🎓 Senior Scientist doing drug discovery things with code. In my spare time you'll find me building **Typescript** apps and playing around with **Python** projects. My favourite stack is **t3-app** and I'm a big advocate for things that make development easier.
 
