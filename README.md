@@ -2,15 +2,13 @@
   Hi, I'm Jake 👋
  </h1>
 
-### Scientist and full-stack developer.
+### Interdisciplinary scientist and full-stack developer.
 
 🎓 Senior Scientist doing drug discovery things with code. In my spare time you'll find me building **Typescript** apps and playing around with **Python** projects. My favourite stack is **t3-app** and I'm a big advocate for things that make development easier.
 
-🌱 I spend my free time working as a full-stack developer for [**Cara**](https://cara.app/), where we're building a social network and professional art portfolio platform for the digital art community. Our userbase is growing rapidly and we're solving challenging problems all the time! Our stack is built around **Next.js** and we're routinely using cool features like **server-side rendering** and **incremental static generation**.
-
 🔬 I'm also exploring some new **Python** projects to use supervised and unsupervised **machine learning** in biological and technical settings. At the moment we're looking at the patterns amongst single cell breast cancer data!
 
-🧗 Outside of my PhD and programming, I like to **climb**, **draw portraits**, **read books** and learn **Korean**. 요즘 제가 제일 좋아하는 한국 음식은 마푸두부예요!
+🌱 I spend my free time exploring New York city, climbing, baking and reading books. You'll often find me in one of the local climbing gyms or mooching in the villages.
 
 ✈️ Currently I'm working in the US but I like to travel a lot, so you will often find me travelling around Europe or sometimes somewhere more exotic like Ecuador.
 
